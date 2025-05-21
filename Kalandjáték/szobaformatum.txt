@@ -1,0 +1,9 @@
+fscanf(szobaOlvas, "%d.", &)
+
+harc(0/1).heal(0/1).kard(0/1).kulcs(0/1).kulcs2(0/1).atmenetSzam(valamilyen szam).[atmenetIndex(indexszam).atmenetFeltetel(karakter)].leiras
+						   /hány helyre tud átmenni onnan/    /melyik szobába/        /milyen feltétellel/
+
+
+jatekallas.txt
+jelenlegiSzoba(valamilyen szám).HP(0-3).voltMarHeal(0/1).kard(0/1).kulcs(0/1).kulcs2(0/1).megvizsgaltszoba0(0/1).megvizsgaltszoba1(0/1).megvizsgaltszoba2(0/1). ...stb
+											/melyik szobákat vizsgálta át a játékos/

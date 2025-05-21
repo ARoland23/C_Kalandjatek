@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1638122822 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\main.c
+	<time.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"szoba.h"
+	"jatekallas.h"
+	"Lista.h"
+	"beolvas.h"
+	"harc.h"
+	"debugmalloc.h"
+
+1639245895 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\beolvas.c
+	<stdbool.h>
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"debugmalloc.h"
+
+1638061173 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\beolvas.h
+	"lista.h"
+
+1636843124 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\iranyitas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"beolvas.h"
+
+1636302685 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\iranyitas.h
+
+1636848182 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\mentes.c
+	<stdio.h>
+	<stdlib.h>
+
+1636842339 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\mentes.h
+
+1637423156 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\szoba.c
+
+1638559101 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\jatekallas.c
+	<stdio.h>
+	"jatekallas.h"
+	"Lista.h"
+	"debugmalloc.h"
+
+1638060936 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\jatekallas.h
+	<stdbool.h>
+	<stdio.h>
+	"lista.h"
+
+1638061326 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\lista.h
+	"szoba.h"
+	<stdbool.h>
+
+1638111720 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\szoba.h
+	<stdbool.h>
+
+1638559109 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\lista.c
+	"Lista.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+
+1638559128 source:c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\harc.c
+	<stdbool.h>
+	<stdlib.h>
+	"jatekallas.h"
+	"debugmalloc.h"
+
+1638061363 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\harc.h
+	"Lista.h"
+	"jatekallas.h"
+
+1638113649 c:\users\aroland\onedrive\asztali gép\nhf\kalandjáték\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
